@@ -4,7 +4,7 @@
 let userName = 'Jimmy';
 userName ? console.log('Hello, ' + userName)
     : console.log('Hello!');
-const userQuestion = 'What football team do you supp?'
+const userQuestion = 'What football team do you support?'
 console.log(userName + ', what football team do you support?');
 let randomNumber = Math.floor(Math.random() * 8);
 let eightBall = '';
